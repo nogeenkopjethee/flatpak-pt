@@ -56,7 +56,7 @@
         {
           "only-arches": [ "x86_64" ],
           "type": "archive",
-          "url": "http://download.icu-project.org/files/icu4c/52.1/icu4c-52_1-RHEL6-x64.tgz",
+          "url": "https://sourceforge.net/projects/icu/files/ICU4C/52.1/icu4c-52_1-RHEL6-x64.tgz",
           "sha256": "2a73302fa3556a113cd5e3de9c14cf6fc39e308fbe6970af6d84d723bf2c66a3",
           "strip-components": 0
         }
